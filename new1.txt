@@ -2,3 +2,5 @@ this is the updated file
 for the new text file...
 
 updated
+
+update2
