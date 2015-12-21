@@ -1,6 +1,1 @@
-this is the updated file
-for the new text file...
-
-updated
-
-update2
+this is the first file
