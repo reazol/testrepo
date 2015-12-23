@@ -2,3 +2,5 @@ this is the second file
 added test2
 
 a change has been made in second file
+
+edited on the sixth line
